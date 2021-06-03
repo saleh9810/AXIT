@@ -1,0 +1,833 @@
+/*
+main color : #ff8b38
+
+*/
+
+
+
+
+/*navbar start*/
+
+
+ 
+ .navbar-light {
+    background-color: #000 !important;
+    border-bottom: #ff8b38 solid 2px;
+    
+}
+.navbar-light .navbar-toggler {
+   background-color: #ff8b38;
+    
+}
+
+.navbar-light .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    
+}
+.navbar-brand:hover {
+    color: #FFF !important;
+}
+
+
+
+.navbar-light .navbar-brand span {
+    color: #ff8b38;
+    font-weight: 300;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color:#FFF;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFF;
+    margin-left: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #FFF;
+}
+ 
+/*navbar end*/
+
+/*us start*/
+
+.us {
+    background: url("../img/img1.jpg") no-repeat center center fixed;
+    width: 100%;
+    min-height: 600px;
+    
+}
+.us .over {
+   background: rgb(0,0,0,0.7);
+    min-height: 600px;
+}
+.us .over .about {
+    color: #FFF;
+    font-weight: bold;
+    margin-top: 100px;
+    
+}
+.us .over .about h1 {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 50px;
+    
+}
+.us .over .about span {
+    color: #ff8b38;
+    font-weight: 300;
+    
+}
+.us .over .about .modern {
+    font-size: 27px;
+    border-bottom: 2px solid #FFF;
+    font-family: sans-serif;
+    
+    
+}
+.us .over .about .lorem {
+    color: #bababb;
+    font-size: 15px;
+    padding-bottom: 20px;
+    
+}
+.us .over .about .btn {
+    color: #fff;
+    font-weight: bold;
+    border: #fff solid 2px;
+    border-radius: 0%;
+    margin-bottom: 10px;
+}
+.us .over .form {
+    margin-top: 80px;
+    
+
+}
+.us .over .form form {
+    background-color: #fff;
+    width: 100%;
+    
+    
+}
+.us .over .form h4 {
+    color: black;
+    background-color: #f5f5f5;
+    padding: 10px;
+    
+   
+}
+.us .over .form span {
+    color: #ff8b38;
+}
+.us .over .form input {
+    width: 85%;
+    margin-left: 20px;
+    border: none;
+    border-bottom: #bababb solid 2px;
+}
+
+.us .over .form input[type=email] {
+    margin-top: 40px;
+
+}
+.us .over .form input[type=password] {
+    margin-top: 40px;
+}
+.us .over .form .get {
+    background-color: #ff8b38;
+    margin-top: 50px;
+    padding: 10px;
+    color: #FFF;
+    cursor: pointer;
+    
+
+}
+/*us end*/
+
+/* social start*/
+.social {
+    border-bottom: 3px solid #d6d6d6;
+}
+
+.social .social-media h4 {
+    margin-top: 15px;
+    font-family: sans-serif serif;
+    font-weight: bold;
+}
+
+.social .social-media p {
+    color: #bababb;
+    font-weight: 500;
+}
+.social .social-icons {
+    text-align: center;
+}
+
+.social .social-icons ul {
+    margin-top: 15px;
+}
+.social .social-icons ul i {
+    margin: 15px;
+    font-size: 30px;
+    opacity: 0.5;
+    cursor: pointer;
+    transform: translate(-60%, 0px);
+}
+.social .social-icons ul i:hover {
+    opacity: 1;
+}
+
+/* social end*/
+
+/* tabs start*/
+.tabs {
+    background-color: #f5f5f5;
+    padding-bottom: 50px;
+}
+
+.tabs .all-tabs {
+    
+    padding: 10px;
+    width: 100%;
+    
+    margin-top: 140px;
+    cursor: pointer;
+    
+}
+
+
+
+.tabs .all-tabs .active {
+    background-color: #ff8b38;
+}
+
+.tabs .all-tabs .tab1 {
+    height: 100px;
+    border-bottom: 2px solid #f5f5f5;
+    line-height: 100px;
+    color: #fff;
+    font-weight: 600;
+}
+.tabs .all-tabs .colors {
+    background-color: #333333;
+} 
+.tabs .all-tabs  .tab2,.tab3 {
+    
+    height: 100px;
+    border-bottom: 2px solid #f5f5f5;
+    line-height: 100px;
+    color: #fff;
+    font-weight: 600;
+}
+.tabs .tabs-info .info{
+    margin-top: 140px;
+}
+
+
+
+.tabs .tabs-info .info h3 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.tabs .tabs-info .info p {
+    color: #a6a7a9;
+}
+
+.tabs .tabs-info .info button {
+    border: 1px solid #f5f5f5;
+    background-color: #ff8b38;
+    color: #FFF;
+    font-weight: 600;
+}
+
+.tabs .tabs-img {
+    margin-top: 150px;
+    
+}
+.tabs .tabs-img img {
+    width: 100%;
+}
+/* tabs end*/
+
+/* sub start*/
+
+.sub {
+    margin-top: 50px;
+}
+.sub .sub-image {
+     
+    margin-top: 50px;
+
+}
+.sub .sub-image img {
+    width: 100%;
+}
+
+.sub-list {
+    margin-top: 50px;
+}
+
+
+.sub-list .sub-list-title {
+    
+    font-weight: 600;
+    
+}
+
+.sub .titles {
+    display: flex;
+    justify-content: center;
+}
+.sub .titles .all-icons {
+    margin-right: 10px;
+}
+
+
+.sub-list p {
+    color: #a6a7a9;
+    font-weight: 400;
+}
+
+.sub-list .titles .all-icons .first {
+
+    border: 2px solid #ff8b38;
+    border-radius: 50%;
+    padding: 15px;
+    color: #ff8b38;
+
+}
+
+.sub-list .titles .all-icons .seconde {
+
+    border: 2px solid #ff8b38;
+    border-radius: 50%;
+    padding: 15px;
+    margin-top: 50px;
+    color: #ff8b38;
+
+}
+
+/* sub end*/
+
+/* standard start */
+
+
+.standard {
+    margin-top: 50px;
+    background-color: #f5f5f5;
+}
+
+.standard .standard-subject {
+    margin-top: 100px;
+    
+}
+.standard .standard-subject h3 {
+
+    margin-bottom: 30px;
+
+}
+.standard .standard-subject p {
+    color: #a6a7a9;
+    
+}
+.standard .standard-img {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.standard .standard-img img {
+    width: 100%;
+    box-shadow: 5px 10px 8px 0px #c5c5c5;
+}
+
+/* standard end */
+
+
+/* awesome start */
+
+
+.awesome .awesome-texts {
+  margin-top: 50px;
+}
+
+.awesome h2 span {
+    border-bottom: 2px #ff8b38 solid;
+    padding-bottom: 15px;
+    
+    
+}
+.awesome .awesome-p {
+    margin-top: 30px;
+    margin-bottom: 80px;
+    color: #a6a7a9;
+}
+
+.awesome i {
+    border: 2px solid #ff8b38;
+    border-radius: 50%;
+    padding: 20px;
+    color: #ff8b38;
+    margin-bottom: 15px;
+
+}
+
+.awesome p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #a6a7a9;
+}
+
+
+/* awesome end */
+
+/*PRICING-OPTIONS start*/
+
+.pricing{
+    margin-top: 80px;
+    background-color: #f5f5f5;
+
+}
+
+.pricing .pricing-texts {
+    padding-top: 100px;
+}
+.pricing .pricing-texts h3 {
+    margin-bottom: 40px;
+}
+
+.pricing .pricing-texts h3 span {
+    border-bottom: #ff8b38 2px solid; 
+    padding-bottom: 15px;
+}
+
+.pricing .pricing-texts p {
+    color: #a6a7a9;
+    margin-bottom: 50px;
+}
+
+.pricing h5 {
+    background-color: #333333;
+    color: #FFF;
+    margin: auto;
+    padding: 15px;
+    border-bottom: 1px #fff solid;
+    
+}
+.pricing h1 {
+    background-color: #333333;
+    padding:50px;
+    color: #FFF;
+    margin: auto;
+    font-size: 30px;
+}
+.pricing  h1 span {
+    font-size: 60px;
+}
+
+.pricing .pricing-p1, .pricing-p2, .pricing-p3 {
+    color: #bababb;
+    background-color: #333333;
+    margin: auto;
+    padding-bottom: 20px;
+}
+.pricing .pricing-p1, .pricing-p3 {
+    border-bottom: 4px #ff8b38 solid;
+}
+
+.pricing h6 {
+    margin: auto;
+    background-color: #ff8b38;
+    padding: 10px;
+    color: #FFF;
+}
+.pricing .basic, .Enterprise {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.pricing .Professional {
+    margin-bottom: 50px;
+}
+
+.pricing .list-group {
+    color: #a6a7a9;
+    font-weight: 600;
+    
+}
+
+/*PRICING-OPTIONS end*/
+
+/*customers start*/
+
+.customers .customers-title {
+    margin-top: 80px;
+    
+    
+}
+.customers .customers-title h2 {
+    margin-bottom: 40px;
+        font-weight: 400;
+}
+.customers .customers-title h2 span {
+    border-bottom: 2px solid #ff8b38;
+    padding-bottom: 15px;
+    
+    
+}
+
+.customers .p1 {
+    color: #8f9094;
+    margin-bottom: 50px;
+}
+.customers .p2, .p3, .p4 {
+    padding: 20px;
+    color: #b5b5b7;
+}
+
+.customers .manager,.freelancer,.photographer {
+    background-color: #f5f5f5;
+    margin-left: 40px;
+}
+
+.customers .customers-images {
+    background-color: #FFF;
+    margin-bottom: 10px;
+    float: left;
+    display: flex;
+    position: relative;
+    
+}
+.customers .customers-images .job {
+    font-weight: 400;
+    color: #888888;
+    position: absolute;
+    bottom: 20px;
+    left: 80px;
+    
+}
+
+
+
+.customers .customers-images .img1 {
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
+/*customers end*/
+
+/*stylish start*/
+
+
+.stylish {
+    background: url("../img/img6.jpg") no-repeat  center center fixed;
+    width: 100%;
+    margin-top: 50px;
+    min-height: 300px;
+    
+    
+} 
+
+.stylish .ovar1 {
+    
+    background: rgb(0,0,0,0.7);
+    min-height: 300px;
+
+    
+  
+    
+}
+.stylish .ovar1 h2 {
+    
+    color: #FFF;
+    font-weight: 400;
+    padding-top: 50px;
+    
+}
+.stylish .ovar1 h2 span {
+    border-bottom: 2px solid #fff;
+    padding-bottom: 15px;
+}
+.stylish .ovar1 p {
+    color: #888888;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.stylish .ovar1 button {
+    border: 2px solid #FFF;
+    border-radius: 1%;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: #FFF;
+}
+
+
+/*stylish end*/
+
+
+/*CONTACT US start*/
+
+.contact-us {
+    margin-top: 50px;
+}
+
+.contact-us h2 {
+    font-weight: 400;
+}
+.contact-us span {
+    border-bottom: 2px #ff8b38 solid ;
+    padding-bottom: 15px;
+}
+.contact-us p {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: #888888;
+    font-weight: 400;
+} 
+
+.contact-us .contact-data {
+margin-top: 24px;   
+}
+
+.contact-us .contact-data input {
+    width: 60%;
+    margin: 10px;
+    border: #fff;
+    border-bottom: 2px #d6d6d6 solid;
+}
+
+.contact-us .contact-area textarea {
+    margin-top: 34px;
+    width: 100%;
+    border: #FFF;
+    border-bottom: 2px #d6d6d6 solid;
+}
+
+.contact-us button {
+    
+    background-color: #ff9b51;
+    color: #FFF;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+
+/*CONTACT US end*/
+
+/*footer start*/
+ .footer {
+    background-color: #000000;
+    margin-top: 90px;
+    padding-top: 10px;
+    padding-bottom: 2px;
+
+    
+}
+
+.footer .footer-icons ul {
+    color: #cccccc;
+
+}
+
+.footer .footer-icons ul i {
+    margin-right: 15px;
+    cursor: pointer;
+
+
+}
+
+
+
+.footer p {
+    color: #8f9094;
+    margin-right: 7px;
+
+    
+}
+
+
+/*footer end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*media strat*/
+
+
+
+@media (max-width:991px) {
+    .tabs .tabs-img img {
+        width: 50%;
+     }
+
+
+     
+
+    .pricing .Enterprise {
+        margin-top: 5px;
+        
+    }
+
+   
+ 
+     
+    
+}
+
+
+
+
+
+@media (max-width:800px) {
+   
+    .tabs .tabs-img img {
+        display: none;
+     }
+
+     .contact-us .contact-data input {
+         width: 90%;
+     
+     }
+
+     .contact-us .contact-data {
+        white-space: none;
+        text-align: center;
+       
+    }
+    
+}
+
+
+
+
+@media (max-width:600px) {
+
+  
+
+   
+
+    .tabs .all-tabs {
+        margin-top: 60px;
+        
+    }
+    
+
+    .tabs .all-tabs ul li {
+
+        display: inline-block; padding: 10px; 
+        
+       
+    }
+
+    .tabs .all-tabs .tab1 {
+        height: 30px;
+        border-bottom: 2px solid #f5f5f5;
+        line-height: 15px;
+        color: #fff;
+        font-weight: 600;
+        
+        
+    }
+    .tabs .all-tabs  .tab2,.tab3 {
+       
+        height: 30px;
+        border-bottom: 2px solid #f5f5f5;
+        line-height: 15px;
+        color: #fff;
+        font-weight: 600;
+    }
+
+    .tabs .tabs-info .info{
+        margin-top: 0px;
+    }
+
+    .tabs .all-tabs .colors {
+        background-color: #333333;
+    } 
+    
+    
+    .awesome h2 {
+        font-size: 20px;
+    }
+
+    .pricing .pricing-texts h3 {
+        font-size: 20px;
+    }
+
+    .standard .standard-subject h3 {
+        font-size: 20px;
+    }
+
+    .customers .customers-title h2 {
+        font-size: 20px;
+    }
+   
+
+    .stylish .ovar1 h2 {
+    
+       font-size: 20px;
+        
+    }
+
+    .contact-us h2 {
+        font-size: 20px;
+    }
+
+    .awesome i {
+        padding: 15px;
+    }
+       
+}
+
+@media (max-width: 500px) {
+    .social .social-icons ul i {
+        font-size: 20px;
+    }
+
+    .footer .footer-icons ul i {
+        font-size: 15px;
+
+}
+
+    
+}
+
+@media(max-width:300px) {
+    .sub-list .titles .all-icons .seconde {
+        margin-top: 65px;
+    }
+
+
+
+    
+}
+
+
+
+/*media end*/
