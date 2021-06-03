@@ -740,7 +740,9 @@ margin-top: 24px;
 
     .tabs .all-tabs ul li {
 
-        display: inline-block; padding: 10px; 
+        display: inline-block;
+         padding: 10px; 
+         padding-bottom:25px;
         
        
     }
